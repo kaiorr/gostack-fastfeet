@@ -23,7 +23,7 @@
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#iniciando-o-servidor-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#iniciando-o-frontend">Frontend</a>
 </p>
 
 ## :rocket: Sobre o desafio
@@ -108,6 +108,7 @@ Para utilizar o docker, subir imagens, gerenciamento, sem a nessecidade de utili
 
     yarn queue
 
+# :computer: Iniciando o Frontend
 
 
 ## :memo: Licença
