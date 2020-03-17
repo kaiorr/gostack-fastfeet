@@ -23,7 +23,8 @@
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#iniciando-o-servidor-backend">Backend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#iniciando-o-frontend">Frontend</a>
+  <a href="#computer-iniciando-o-frontend">Frontend</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#iphone-mobile">Mobile</a>
 </p>
 
 ## :rocket: Sobre o desafio
@@ -110,6 +111,16 @@ Para utilizar o docker, subir imagens, gerenciamento, sem a nessecidade de utili
 
 # :computer: Iniciando o Frontend
 
+  Para instalar as dependências
+
+      yarn
+  
+  Para subir aplicação
+
+      yarn start
+
+
+# :iphone: Mobile
 
 ## :memo: Licença
 
