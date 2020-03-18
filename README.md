@@ -122,7 +122,7 @@ Para utilizar o docker, subir imagens, gerenciamento, sem a nessecidade de utili
 
 # :iphone: Mobile
 
-      :construction:  Em construção  :construction:
+  :construction:  Em construção  :construction:
 
 ## :memo: Licença
 
