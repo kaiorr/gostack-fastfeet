@@ -60,7 +60,7 @@ Para utilizar o docker, subir imagens, gerenciamento, sem a nessecidade de utili
 
   Acessando o diretório:
 
-      cd bootcamp-gostack-desafio-02
+      cd gostack-fastfeet
 
   Instalando todos pacotes:
 
