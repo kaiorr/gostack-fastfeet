@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Fastfeet API :package:
+  Fastfeet Application :package:
 </h3>
 
 <p align="center">
