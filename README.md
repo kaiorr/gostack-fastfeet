@@ -56,7 +56,7 @@ Para utilizar o docker, subir imagens, gerenciamento, sem a nessecidade de utili
 
 ### :zap: Acesssando
 
-    git clone https://github.com/kaiorr/bootcamp-gostack-desafio-02.git
+    git clone https://github.com/kaiorr/gostack-fastfeet.git
 
   Acessando o diretório:
 
@@ -121,6 +121,8 @@ Para utilizar o docker, subir imagens, gerenciamento, sem a nessecidade de utili
 
 
 # :iphone: Mobile
+
+      :construction:  Em construção  :construction:
 
 ## :memo: Licença
 
