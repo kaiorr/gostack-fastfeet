@@ -122,7 +122,16 @@ Para utilizar o docker, subir imagens, gerenciamento, sem a nessecidade de utili
 
 # :iphone: Mobile
 
-  :construction:  Em construção  :construction:
+       :heavy_plus_sign: Aplicativo testado somente **Android**
+
+
+    Para instalar as dependências 
+
+        yarn
+
+    :pushpin: Foi utilizado Genymotion como emulador android, para maiores informações do mesmo, basta seguir o guia de instalação e configuração disponibilizado [aqui](https://docs.rocketseat.dev/ambiente-react-native/android/emulador) toda documentação criado pela rocketseat para auxíliar no processo de criação do ambiente.
+
+
 
 ## :memo: Licença
 
