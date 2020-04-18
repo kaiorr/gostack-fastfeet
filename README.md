@@ -7,16 +7,18 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/rocketseat/bootcamp-gostack-desafio-02?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kaiorr/aceleraDevReact?style=plastic">
 
-  <a href="https://rocketseat.com.br">
-    <img alt="Made by Rocketseat" src="https://img.shields.io/badge/made%20by-Rocketseat-%2304D361">
+  <a href="https://www.linkedin.com/in/kaio-ribeiro-310123150/"> 
+    <img alt="Made by Kaio" src="https://img.shields.io/badge/made%20by-kaiorr-%2304D361">
   </a>
 
-  <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kaiorr/aceleraDevReact?color=7800ff&style=plastic">
 
-  <a href="https://github.com/kaiorr/gostack-fastfeet/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/kaiorr/gostack-fastfeet?style=social">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaiorr/aceleraDevReact?color=7800ff&style=plastic">
+
+  <a href="https://github.com/kaiorr/aceleraDevReact/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/kaiorr/aceleraDevReact?style=social">
   </a>
 </p>
 
@@ -124,14 +126,11 @@ Para utilizar o docker, subir imagens, gerenciamento, sem a nessecidade de utili
 
 :heavy_plus_sign:  **Aplicativo testado somente Android**
 
-
     Para instalar as dependências 
 
         yarn
 
 :pushpin:  Foi utilizado Genymotion como emulador android, para maiores informações do mesmo, basta seguir o guia de instalação e configuração disponibilizado **[aqui](https://docs.rocketseat.dev/ambiente-react-native/android/emulador)** toda documentação criado pela rocketseat para auxíliar no processo de criação do ambiente.
-
-
 
 ## Iniciando App
 
@@ -139,14 +138,10 @@ Para utilizar o docker, subir imagens, gerenciamento, sem a nessecidade de utili
 
     react-native run-android
 
-----
-
-
 ## :memo: Licença
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
+----
 
-
-
-Feito com :heart: por **Kaio Ribeiro**
+Feito com :heart: por **Kaio Ribeiro** :call_me_hand: [Professional Network](https://www.linkedin.com/in/kaio-ribeiro-310123150/)
