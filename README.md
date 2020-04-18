@@ -12,18 +12,18 @@
     <img alt="Code Covarage" src="https://api.codacy.com/project/badge/Grade/880f947032d543fa913769c4313a9bb1">
   </a>
 
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kaiorr/aceleraDevReact?style=plastic">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/kaiorr/gostack-fastfeet?style=plastic">
 
   <a href="https://www.linkedin.com/in/kaio-ribeiro-310123150/"> 
     <img alt="Made by Kaio" src="https://img.shields.io/badge/made%20by-kaiorr-%2304D361">
   </a>
 
-  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kaiorr/aceleraDevReact?color=7800ff&style=plastic">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/kaiorr/gostack-fastfeet?color=7800ff&style=plastic">
 
-  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaiorr/aceleraDevReact?color=7800ff&style=plastic">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/kaiorr/gostack-fastfeet?color=7800ff&style=plastic">
 
-  <a href="https://github.com/kaiorr/aceleraDevReact/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/kaiorr/aceleraDevReact?style=social">
+  <a href="https://github.com/kaiorr/gostack-fastfeet/stargazers">
+    <img alt="Stargazers" src="https://img.shields.io/github/stars/kaiorr/gostack-fastfeet?style=social">
   </a>
 </p>
 
