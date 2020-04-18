@@ -31,6 +31,8 @@
 
 ## :rocket: Sobre o desafio
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/880f947032d543fa913769c4313a9bb1)](https://app.codacy.com/manual/kaiorr/gostack-fastfeet?utm_source=github.com&utm_medium=referral&utm_content=kaiorr/gostack-fastfeet&utm_campaign=Badge_Grade_Settings)
+
 A aplicação de um app para uma transportadora fictícia, o FastFeet, é uma aplicação completa envolvendo back-end, front-end e mobile, que será utilizada para a **certificação do bootcamp** Gostack da **[rocketseat](https://rocketseat.com.br/gostack)**.
 
 # Iniciando o Servidor Backend
