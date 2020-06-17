@@ -46,7 +46,7 @@ module.exports = {
       'react-native/no-raw-text': 'off',
       'no-param-reassign': 'off',
       'no-underscore-dangle': 'off',
-      camelcase: 'off',
+      'camelcase': 'off',
       'no-console': ['error', { allow: ['tron']}],
       'react/jsx-props-no-spreading': 'off',
       'no-undef': 'off',
